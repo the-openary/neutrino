@@ -6,7 +6,7 @@ The `dev_process` folder contains a selection of notes & data that provide a pee
 
 ### Features
 - Fits in a 200x200x70mm volume
-- under $300 CAD
+- Under $300 CAD (using the attached BOM)
 - Uses common, off-the-shelf parts
 - Completely self replicating* (currently the base is not printable on itself)
 
@@ -15,6 +15,10 @@ The `dev_process` folder contains a selection of notes & data that provide a pee
 ---
 
 ### FAQ:
+
+**Where's the extruder?**
+
+Great question! The Neutrino is designed to use a Sherpa Mini in bowden configuration. Due to copyright, it cannot be included in the CAD. It can be found [here](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder). Totally awesome design.
 
 **Why a Bowden Setup?**
 
