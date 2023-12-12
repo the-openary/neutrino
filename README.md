@@ -13,8 +13,19 @@ The `dev_process` folder contains a selection of notes & data that provide a pee
 *planned
 
 ---
+### Getting started
 
+In the root of the repository is a file called `BOM.xlsx`. Contains all the relevant links, notes, etc. Currently missing screw counts, please use the CAD for that.
+
+Join the discord for help, I will gladly give guidance on how to build your own.
+
+
+---
 ### FAQ:
+
+**Can I see a video?**
+
+There are short clips that can be found [here]() (missing link). Currently working on a proper release video, will try and get that out soon.
 
 **Where's the extruder?**
 
@@ -36,6 +47,10 @@ Anywhere you can find them. It uses all standard 8mm + M3 hardware. AliExpress, 
 **Is there an assembly guide?**
 
 Not yet, working on that soon. For now you should just use the CAD. There is also the [discord](https://discord.gg/VZFWGp7FHZ) for help. I can assist you personally there.
+
+**What is under `OLED_Module`?**
+
+Under OLED_Module is a custom, optional PCB that contains an OLED display, rotary encoder, kill switch, and speaker. It is currently untested but I have the PCBs arriving soon. 
 
 ---
 
