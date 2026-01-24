@@ -12,7 +12,7 @@ Feel free to fork this if you so desire. All I ask is that you give proper attri
 
 This is Neutrino! It's a portable 3D printer that is meant to be cheap and accessible - it fits inside a filament box! ~~Currently in development~~ currently unfinished, do NOT try building your own without messaging me for help for now. Join the the Discord server [here!](https://discord.gg/VZFWGp7FHZ). Made by @qcoral
 
-![Picture of Neutrino in a hallway](https://hc-cdn.hel1.your-objectstorage.com/s/v3/4f6577e69b27d27d_screenshot_2025-12-12_004501.png)
+![Picture of Neutrino in a hallway](assets/neutrino_hallway.jpg)
 
 The `dev_process` folder contains a selection of notes & data that provide a peek into the development process of this printer. Due to privacy reasons it is only a snippet. If there's something specific feel free to reach out. 
 
