@@ -1,12 +1,5 @@
 # Neutrino
 
-## 2025-12-12 Update:
-
-I last updated this printer almost 2 years ago in 2024. The printer works, but the useability could definitely be improved.
-
-While I would love to someday really put in the polish to properly finish this design, I really am not sure when that would be. Many of the parts would have to be redesigned from scratch, and I've recently been enjoying other projects much more. That being said, this was still an absolute blast to work on!
-
-Feel free to fork this if you so desire. All I ask is that you give proper attribution!
 
 ### Overview
 
@@ -23,6 +16,14 @@ The `dev_process` folder contains a selection of notes & data that provide a pee
 - Mostly self replicating
 
 *currently the base cannot be self-printed
+
+## 2025-12-12 Update:
+
+I last updated this printer almost 2 years ago in 2024. The printer works, but the useability could definitely be improved.
+
+While I would love to someday really put in the polish to properly finish this design, I really am not sure when that would be. Many of the parts would have to be redesigned from scratch, and I've recently been enjoying other projects much more. That being said, this was still an absolute blast to work on!
+
+Feel free to fork this if you so desire. All I ask is that you give proper attribution!
 
 ---
 ### Getting started
